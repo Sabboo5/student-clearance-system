@@ -1,6 +1,6 @@
 # Student Clearance Management System
 
-A full-stack web application for managing student graduation clearance requests. Built with React, Node.js, Express, MongoDB, and TypeScript.
+A full-stack web application for managing student clearance requests. Built with React, Node.js, Express, MongoDB, and TypeScript.
 
 ## Features
 
